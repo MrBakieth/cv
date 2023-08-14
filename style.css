@@ -1,0 +1,64 @@
+td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+.starcell {
+    width: 15px;
+    text-align: center;
+}
+
+.fab{
+    font-variant: small-caps;
+}
+body{
+    background-color: 
+    #CFE2EC ;
+}
+.bottom{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.contact_me{
+    background-color: white;
+    margin-left: 3px;
+    padding: 3px;
+}
+
+.email,.contact_me,.phone_num,.whatsapp,.social_media{
+    border: 2px solid black;
+    border-radius: 3px;
+    margin: 2%;
+    padding: 1%;
+}
+.hobbies{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.table_skills{
+    border-style:none;
+}
+
+.top_div{
+    z-index: 99;
+    position: absolute;
+    list-style: none;
+    right: 30px;
+}
+
+.top_div_class .top_li_class{
+    display: inline;
+    margin: 15px;
+}
+
+.top_div_class  .top_li_class .top_li_a{
+    text-decoration: wavy;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color:blueviolet;
+}
