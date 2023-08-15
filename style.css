@@ -126,7 +126,7 @@ body{
     position: absolute;
     top: -66.66px;
     border-top: 4px solid transparent;
-    border-left: 4px solid #e41cf8;
+    border-left: 4px solid #5900FF;
     
 }
 
@@ -134,7 +134,7 @@ body{
     animation: animate2 4s linear infinite;
     animation-delay: -1s;
     border-top: 4px solid transparent;
-    border-left: 4px solid #93FF2D;
+    border-left: 4px solid #00FF9E;
 }
 
 @keyframes animate2{
@@ -155,12 +155,12 @@ body{
     border-radius: 50%;
     width: 15px;
     height: 15px;
-    background: #e41cf8;
-    box-shadow: 0 0 0 5px #e41cf833,
-    0 0 0 10px #e41cf822 ,
-    0 0 0 20px #e41cf811 , 
-    0 0 20px #e41cf8, 
-    0 0 50px #e41cf8 ;
+    background: #5900FF;
+    box-shadow: 0 0 0 5px #5900FF33,
+    0 0 0 10px #5900FF22 ,
+    0 0 0 20px #5900FF11 , 
+    0 0 20px #5900FF, 
+    0 0 50px #5900FF ;
 }
 
 .container .ring:nth-child(2):before{
@@ -172,12 +172,12 @@ body{
     border-radius: 50%;
     width: 15px;
     height: 15px;
-    background: #93FF2D;
-    box-shadow: 0 0 0 5px #93FF2D33,
-    0 0 0 10px #93FF2D22 ,
-    0 0 0 20px #93FF2D11 , 
-    0 0 20px #93FF2D, 
-    0 0 50px #93FF2D ;
+    background: #00FF9E;
+    box-shadow: 0 0 0 5px #00FF9E33,
+    0 0 0 10px #00FF9E22 ,
+    0 0 0 20px #00FF9E11 , 
+    0 0 20px #00FF9E, 
+    0 0 50px #00FF9E ;
 }
 
 
